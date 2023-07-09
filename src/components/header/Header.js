@@ -9,7 +9,7 @@ function Header() {
             <div className="topbar">
                 <div className="topbarWrapper">
                     <div className="topleft">
-                        <span className="logo">DashAdmin</span>
+                        <span className="logo">AdminPanel</span>
                     </div>
                     <div className="topright">
                         <div className="topbarIconContainer">
