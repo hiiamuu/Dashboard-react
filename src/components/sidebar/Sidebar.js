@@ -6,6 +6,7 @@ import { FiTrendingUp, FiBarChart2, FiMail, FiMessageSquare } from "react-icons/
 import { AiOutlineUser } from "react-icons/ai";
 import { BiStore } from "react-icons/bi";
 import { FaDollarSign } from "react-icons/fa";
+import { Link } from 'react-router-dom';
 
 export default function Sidebar() {
     return (
@@ -14,9 +15,12 @@ export default function Sidebar() {
                 <div className="sidebarMenu">
                     <h3 className="sidebarTitle">Dashboard</h3>
                     <ul className="sidebarList">
-                        <li className="sidebarListItem active">
-                            <HiOutlineMenu className='sidebarIcon' />Home
-                        </li>
+                        <Link to="/" className='link'>
+
+                            <li className="sidebarListItem active">
+                                <HiOutlineMenu className='sidebarIcon' />Home
+                            </li>
+                        </Link>
                         <li className="sidebarListItem">
                             <MdTimeline className='sidebarIcon' />Analytics
                         </li>
@@ -29,12 +33,16 @@ export default function Sidebar() {
                 <div className="sidebarMenu">
                     <h3 className="sidebarTitle">Quick Links</h3>
                     <ul className="sidebarList">
-                        <li className="sidebarListItem">
-                            <AiOutlineUser />Users
-                        </li>
-                        <li className="sidebarListItem">
-                            <BiStore />Product
-                        </li>
+                        <Link to="/users" className='link'>
+                            <li className="sidebarListItem">
+                                <AiOutlineUser />Users
+                            </li>
+                        </Link>
+                        <Link to="/products" className='link'>
+                            <li className="sidebarListItem">
+                                <BiStore />Product
+                            </li>
+                        </Link>
                         <li className="sidebarListItem">
                             <FaDollarSign />Transactions
                         </li>
