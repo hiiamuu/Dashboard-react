@@ -66,54 +66,54 @@ export const productData = [
 
 export const userRows = [
     {
-        id: 1, username: 'Jon Snow',
+        id: 1, username: 'Annu Singh',
         avatar: 'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
-        email: 'jon@gmail.com', status: 'active', transaction: '$120'
+        email: 'annu99@gmail.com', status: 'active', transaction: '$120'
     },
     {
-        id: 2, username: 'Jon Wick',
+        id: 2, username: 'Rani kumari',
         avatar: 'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
-        email: 'wick@gmail.com', status: 'active', transaction: '$130'
+        email: 'rani@gmail.com', status: 'active', transaction: '$130'
     },
     {
-        id: 3, username: 'Joe Root',
+        id: 3, username: 'Joyce Merin',
         avatar: 'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
-        email: 'joe@gmail.com', status: 'active', transaction: '$100'
+        email: 'joyce@gmail.com', status: 'active', transaction: '$100'
     },
     {
-        id: 4, username: 'Harry Potter',
+        id: 4, username: 'June Merin',
         avatar: 'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
-        email: 'harry@gmail.com', status: 'active', transaction: '$150'
+        email: 'june96@gmail.com', status: 'active', transaction: '$150'
     },
     {
-        id: 5, username: 'joe stokes',
+        id: 5, username: 'Priyanaka ',
         avatar: 'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
-        email: 'jons@gmail.com', status: 'active', transaction: '$180'
+        email: 'priya65@gmail.com', status: 'active', transaction: '$180'
     },
     {
-        id: 6, username: 'Jon Snow',
+        id: 6, username: 'Wellwin Mohan',
         avatar: 'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
-        email: 'jon@gmail.com', status: 'active', transaction: '$120'
+        email: 'wellwin@gmail.com', status: 'active', transaction: '$120'
     },
     {
-        id: 7, username: 'Jon Snow',
+        id: 7, username: 'Sita Ram',
         avatar: 'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
-        email: 'jon@gmail.com', status: 'active', transaction: '$140'
+        email: 'sita45@gmail.com', status: 'active', transaction: '$140'
     },
     {
-        id: 8, username: 'Jon Snow',
+        id: 8, username: 'Ram Mohan',
         avatar: 'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
-        email: 'jon@gmail.com', status: 'active', transaction: '$160'
+        email: 'ram12@gmail.com', status: 'active', transaction: '$160'
     },
     {
-        id: 9, username: 'Jon Snow',
+        id: 9, username: 'Sumit Singh',
         avatar: 'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
-        email: 'jon@gmail.com', status: 'active', transaction: '$120'
+        email: 'sumit@gmail.com', status: 'active', transaction: '$120'
     },
     {
-        id: 10, username: 'Jon Snow',
+        id: 10, username: 'amit kumar',
         avatar: 'https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500',
-        email: 'jon@gmail.com', status: 'active', transaction: '$120'
+        email: 'amit@gmail.com', status: 'active', transaction: '$180'
     },
 
 ];
@@ -130,21 +130,21 @@ export const productRows = [
     },
     {
         id: 2,
-        name: "Apple Airpods",
+        name: "Boat Airdopes",
         img:
             "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         stock: 123,
         status: "active",
-        price: "$120.00",
+        price: "$60.00",
     },
     {
         id: 3,
-        name: "Apple Airpods",
+        name: "Oneplus Airpods",
         img:
             "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         stock: 123,
         status: "active",
-        price: "$120.00",
+        price: "$90.00",
     },
     {
         id: 4,
@@ -157,12 +157,12 @@ export const productRows = [
     },
     {
         id: 5,
-        name: "Apple Airpods",
+        name: "oneplus Airpods",
         img:
             "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
         stock: 123,
         status: "active",
-        price: "$120.00",
+        price: "$100.00",
     },
     {
         id: 6,

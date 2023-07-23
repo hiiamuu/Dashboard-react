@@ -19,7 +19,7 @@ export default function User() {
                     <div className="userShowTop">
                         <img src="https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="" className="userShowImg" />
                         <div className="userShowTopTitle">
-                            <span className="userShowUsername">Anna Becker</span>
+                            <span className="userShowUsername">Annu Singh</span>
                             <span className="userShowUserTitle">Software Engineer</span>
                         </div>
                     </div>
@@ -27,7 +27,7 @@ export default function User() {
                         <span className="userShowTitle">Account Details</span>
                         <div className="userShowInfo">
                             <MdPermIdentity className='userShowIcon' />
-                            <span className="userShowInfoTitle">annabeck99</span>
+                            <span className="userShowInfoTitle">annu99</span>
                         </div>
                         <div className="userShowInfo">
                             <MdCalendarToday className='userShowIcon' />
@@ -40,7 +40,7 @@ export default function User() {
                         </div>
                         <div className="userShowInfo">
                             <MdMailOutline className='userShowIcon' />
-                            <span className="userShowInfoTitle">annabeck99@gmail.com</span>
+                            <span className="userShowInfoTitle">annu99@gmail.com</span>
                         </div>
                         <div className="userShowInfo">
                             <MdLocationSearching className='userShowIcon' />
@@ -54,15 +54,15 @@ export default function User() {
                         <div className="userUpdateLeft">
                             <div className="userUpdateItem">
                                 <label >Username</label>
-                                <input type="text" placeholder="annabeck99" className="userUpdateInput" />
+                                <input type="text" placeholder="annu99" className="userUpdateInput" />
                             </div>
                             <div className="userUpdateItem">
                                 <label >Full Name</label>
-                                <input type="text" placeholder="Anna Becker" className="userUpdateInput" />
+                                <input type="text" placeholder="Annu Singh" className="userUpdateInput" />
                             </div>
                             <div className="userUpdateItem">
                                 <label >Email</label>
-                                <input type="text" placeholder="annabeck99@gmail.com" className="userUpdateInput" />
+                                <input type="text" placeholder="annu99@gmail.com" className="userUpdateInput" />
                             </div>
                             <div className="userUpdateItem">
                                 <label >phone</label>
